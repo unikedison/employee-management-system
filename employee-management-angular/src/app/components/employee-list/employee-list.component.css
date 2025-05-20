@@ -1,0 +1,14 @@
+mat-card {
+    margin: 16px;
+    overflow-x: auto;
+}
+
+.spacer {
+    flex: 1 1 auto;
+}
+
+.full-width {
+    width: 30%;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
