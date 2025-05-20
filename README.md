@@ -1,6 +1,6 @@
 # 👥 Employee Management System
 
-A full-stack employee management application built with **ASP.NET Core Web API** (backend) and **Angular v18** (frontend). It allows users to view, add, edit, and delete employees — all using in-memory data for simplicity.
+A full-stack employee management application built with **ASP.NET Core Web API** (backend) and **Angular v18** (frontend). It allows users to view, add, edit, and delete employees — using in-memory data.
 
 ---
 
